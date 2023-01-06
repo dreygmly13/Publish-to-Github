@@ -40,6 +40,7 @@
     $headline = "500";
     $content = "Internal Server Error";
     $message = "We will work on fixing that right away.";
+    
   }
   ?>
   <section class="content">
